@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about crafti
 With a diverse skill set spanning programming languages, web technologies, and tools, I’m eager to transform ideas into impactful solutions.
 
 
-**🚀 About Me**
+**About Me**
 
 💼 Full Stack Developer
 
@@ -17,7 +17,7 @@ With a diverse skill set spanning programming languages, web technologies, and t
 🏅 University Rank Holder in B.Sc. Computer Science (2022)
 
 
-**💻 Tools and Languages**
+**Tools and Languages**
 
 -> Languages: C, C++, Python
 
@@ -26,7 +26,7 @@ With a diverse skill set spanning programming languages, web technologies, and t
 -> Tools: Git, Tome
 
 
-**🛠 Projects**
+**Projects**
 
 Biometric Hashing Template Protection Over Banking Interface: A secure, innovative solution for the banking domain.
 
